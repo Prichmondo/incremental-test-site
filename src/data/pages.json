@@ -1,0 +1,20 @@
+[
+  {
+    "slug": "/",
+    "title": "Home",
+    "content": "This is the content of the Home, Lorem ipsum dolor sit amet conseutor incipit...",
+    "template": "default"
+  },
+  {
+    "slug": "/about-us",
+    "title": "About us",
+    "content": "This is the content of the About Us, Lorem ipsum dolor sit amet conseutor incipit...",
+    "template": "default"
+  },
+  {
+    "slug": "/countries",
+    "title": "Countries",
+    "content": "This is the content of the Countries page, Lorem ipsum dolor sit amet conseutor incipit...",
+    "template": "countries"
+  }
+]
